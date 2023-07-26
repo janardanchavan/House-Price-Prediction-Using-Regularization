@@ -1,5 +1,5 @@
 # Project Name
-> Outline a brief description of your project.
+> House Price Prediction Using Regularization
 
 
 ## Table of Contents
@@ -42,7 +42,7 @@ Give credit here.
 
 
 ## Contact
-Created by [@githubusername] - feel free to contact me!
+Created by [@janardanchavan] - feel free to contact me!
 
 
 <!-- Optional -->
